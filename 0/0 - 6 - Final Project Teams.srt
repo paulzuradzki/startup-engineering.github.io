@@ -1,0 +1,76 @@
+
+1
+00:00:01,069 --> 00:00:03,379
+Let's talk about collaboration and teams for
+a little bit.
+
+2
+00:00:03,379 --> 00:00:10,379
+On the final project, can people work in teams?
+I would prefer that you don't work in teams,
+
+3
+00:00:12,549 --> 00:00:17,130
+because it's kind of difficult and Coursera
+isn't really set up for it. (Obviously in
+
+4
+00:00:17,130 --> 00:00:22,189
+real life, you're going to start a company
+with a team, not as an individual, usually.)
+
+5
+00:00:22,189 --> 00:00:26,689
+But if you do want to work in teams, we can
+try this as an experiment. The idea would
+
+6
+00:00:26,689 --> 00:00:30,599
+be that you would submit the graded portion
+of each final project as individuals -- and
+
+7
+00:00:30,599 --> 00:00:35,600
+you can click this to see what I mean by the
+"Graded portion," or the technical aspects
+
+8
+00:00:35,600 --> 00:00:40,140
+-- all of these you would submit your own
+site, as an individual for technical grading,
+
+9
+00:00:40,140 --> 00:00:47,140
+while you'd leave the qualitative stuff all
+rudimentary, in your own thing.
+
+10
+00:00:49,320 --> 00:00:52,719
+This way, if three people are working on the
+same product as a team, all of them would
+
+11
+00:00:52,719 --> 00:00:57,649
+do the technical portions individually for
+grading, but then, for the last three weeks
+
+12
+00:00:57,649 --> 00:01:04,649
+when it comes time to promote the project
+in this portion of the class, you would switch
+
+13
+00:01:08,460 --> 00:01:13,540
+over and all three team members would work
+together on promoting the product.
+
+14
+00:01:13,540 --> 00:01:20,540
+So that is the idea behind how teams would
+work. For all non-final project individual
+
+15
+00:01:20,710 --> 00:01:23,370
+assignments, it goes without saying that you
+should submit your answers as individuals.
+

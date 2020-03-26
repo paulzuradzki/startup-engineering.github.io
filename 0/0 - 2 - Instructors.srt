@@ -1,0 +1,86 @@
+
+1
+00:00:01,110 --> 00:00:07,230
+Great. So, I'd like to now briefly introduce
+myself and the other members of the teaching
+
+2
+00:00:07,230 --> 00:00:14,230
+staff. So, brief introduction, so my name
+is Balaji Srinivasan. You can call me BSS
+
+3
+00:00:15,200 --> 00:00:21,890
+or Balaji S. I am a Stanford lifer. I did
+all my education there. I also taught computer
+
+4
+00:00:21,890 --> 00:00:27,220
+science and statistics there before founding
+a startup. That startup is called Counsyl.
+
+5
+00:00:27,220 --> 00:00:33,720
+It's been very successful. You can read these
+links. Basically we scaled Counsyl from a
+
+6
+00:00:33,720 --> 00:00:39,810
+Stanford dorm room to a huge sixty thousand
+square foot clinical genome center with two
+
+7
+00:00:39,810 --> 00:00:44,050
+hundred employees, around three percent of
+U.S. births, and along the way we raised more
+
+8
+00:00:44,050 --> 00:00:50,040
+than sixty five million dollars in funding,
+and here's a few article clips on Counsyl
+
+9
+00:00:50,040 --> 00:00:57,040
+in the New York Times, you know, Tech Crunch,
+the Wall Street Journal and Scientific American.
+
+10
+00:00:58,820 --> 00:01:04,009
+And that's kind of the summary for me. You
+can kind of read over those articles and get
+
+11
+00:01:04,009 --> 00:01:11,009
+a sense of my background. The next instructor,
+Vijay Pande, will be teaching some of the
+
+12
+00:01:11,240 --> 00:01:17,630
+lectures toward the end of the quarter, or
+the course rather. Vijay has his own Wikipedia
+
+13
+00:01:17,630 --> 00:01:23,040
+article. He's the director of the Folding@Home
+project and an expert in distributed computing.
+
+14
+00:01:23,040 --> 00:01:26,670
+Here's a couple of clips on that. You can
+take a look at this at Wikipedia, and also
+
+15
+00:01:26,670 --> 00:01:33,670
+at the folding.stanford.edu site. Finally,
+this is the T.A., Alex Chia. Alex is Stanford
+
+16
+00:01:34,380 --> 00:01:38,939
+as well, MS in computer science, Carnegie
+Mellon undergrad. He's won many programming
+
+17
+00:01:38,939 --> 00:01:41,630
+competitions and Alex will also be very active
+on the forums.
+

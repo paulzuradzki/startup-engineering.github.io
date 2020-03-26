@@ -1,0 +1,173 @@
+
+1
+00:00:00,810 --> 00:00:06,750
+So let's talk briefly about the syllabus and
+the assignments for the course. You can take
+
+2
+00:00:06,750 --> 00:00:13,750
+the course for the technology or for the philosophy,
+which is of a highly applied variety, or both.
+
+3
+00:00:15,520 --> 00:00:18,820
+Here is the Stanford Bulletin description
+for the previous offering of the course. It
+
+4
+00:00:18,820 --> 00:00:24,009
+gives a good outline of many of the things
+in it. We're structuring it somewhat differently,
+
+5
+00:00:24,009 --> 00:00:30,130
+but I present this for completeness. Here's
+our schedule. So we start on June 17 and we
+
+6
+00:00:30,130 --> 00:00:37,130
+go until August 25, so exactly ten weeks or
+seventy days. And homeworks go out on Wednesdays,
+
+7
+00:00:37,410 --> 00:00:42,260
+and they're due at 11:59PM on the following
+Wednesday. After this point over here, the
+
+8
+00:00:42,260 --> 00:00:46,620
+final project starts, and the final project
+winners (this is just bragging rights with
+
+9
+00:00:46,620 --> 00:00:53,620
+no money involved) are declared on August
+25th at 11:59PM PST. We'll talk about the
+
+10
+00:00:53,650 --> 00:00:57,350
+final projects in a little bit.
+
+11
+00:00:57,350 --> 00:01:01,900
+In terms of the syllabus, this is a technical
+component. We're going to start you off signing
+
+12
+00:01:01,900 --> 00:01:06,789
+up for web services, and progressively build
+out your development environment, teach you
+
+13
+00:01:06,789 --> 00:01:13,369
+some CSS, some basic responsive design, front-end
+javascript, back-end javascript, and build
+
+14
+00:01:13,369 --> 00:01:20,359
+up a fairly sophisticated application by the
+end of this. Complementing this technical
+
+15
+00:01:20,359 --> 00:01:27,359
+portion, we also have a philosophical portion.
+These weeks are meant to go together. The
+
+16
+00:01:31,869 --> 00:01:36,409
+philosophy that we introduce somewhat relates
+to the technology. For example, here we talk
+
+17
+00:01:36,409 --> 00:01:42,060
+about design and PR and so on in the same
+week we're learning about design and CSS and
+
+18
+00:01:42,060 --> 00:01:47,289
+those kinds of things. Here we talk about
+sales, marketing, and funnel; and here you're
+
+19
+00:01:47,289 --> 00:01:52,579
+going through some degree of analytics and
+cost-of-customer acquisition and whatnot.
+
+20
+00:01:52,579 --> 00:01:55,869
+These are meant to complement each other.
+
+21
+00:01:55,869 --> 00:02:00,209
+In terms of the assignments, there are graded
+homeworks, which are the primary component
+
+22
+00:02:00,209 --> 00:02:04,369
+of your grade; they go out on Wednesdays;
+standard multiple choice quizzes and programming
+
+23
+00:02:04,369 --> 00:02:09,399
+assignments in javascript. These are objective
+answers that are autograded. As for the final
+
+24
+00:02:09,399 --> 00:02:14,790
+project, it is partially graded. You can see
+the slides here for details. It is basically
+
+25
+00:02:14,790 --> 00:02:20,510
+a bitcoin powered self-starter, a crowd-funding
+app that you will build up over the course
+
+26
+00:02:20,510 --> 00:02:25,489
+of the quarter and then fill it with your
+own concept. What are graded are the technical
+
+27
+00:02:25,489 --> 00:02:30,500
+details of that application. What is not graded
+is the qualitative content or the video, i.e.,
+
+28
+00:02:30,500 --> 00:02:33,430
+the product that you're building. That's not
+graded. In typical what we're doing is we're
+
+29
+00:02:33,430 --> 00:02:38,129
+going to rank this on the base of the number
+of bitcoins that you've raised and other kinds
+
+30
+00:02:38,129 --> 00:02:42,110
+of metrics that are hard to game, which we'll
+talk about in a little bit.
+
+31
+00:02:42,110 --> 00:02:46,120
+As I've mentioned, the assignments are due
+on Wednesdays. This is just a table that you
+
+32
+00:02:46,120 --> 00:02:50,400
+can consult to be totally definitive about
+when things are going out and when they're
+
+33
+00:02:50,400 --> 00:02:55,450
+coming in. There are seven homeworks in total.
+The first one is easy to allow a late start,
+
+34
+00:02:55,450 --> 00:02:58,549
+and the last one is short to allow project
+focus. But the ones in the middle will be
+
+35
+00:02:58,549 --> 00:02:59,579
+reasonably challenging.
+

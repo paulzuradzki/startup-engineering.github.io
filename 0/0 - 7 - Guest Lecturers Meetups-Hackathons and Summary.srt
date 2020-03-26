@@ -1,0 +1,106 @@
+
+1
+00:00:00,650 --> 00:00:03,889
+Lets talk community and collaboration and
+then summarize.
+
+2
+00:00:03,889 --> 00:00:10,519
+In terms of community and collaboration, we're
+going to have many important guest lecturers
+
+3
+00:00:10,519 --> 00:00:13,829
+(which we are going to upload as the class
+progresses) from many of the top startups
+
+4
+00:00:13,829 --> 00:00:16,630
+and big companies in Silicon Valley.
+
+5
+00:00:16,630 --> 00:00:21,439
+Forums, meet ups, and hackathons will be an
+important part of the class. Please use the
+
+6
+00:00:21,439 --> 00:00:26,000
+discussion forums if you have questions, as
+we will monitor them closely. As for meetups
+
+7
+00:00:26,000 --> 00:00:29,880
+and hackathons, read this forum thread, find
+class meet ups in your city, create a thread
+
+8
+00:00:29,880 --> 00:00:33,910
+with your city if it doesn't exist (for example,
+here's a New York forum thread meetup) and
+
+9
+00:00:33,910 --> 00:00:37,340
+if you live in a very remote area, use this
+thread instead of Google hangouts with fellow
+
+10
+00:00:37,340 --> 00:00:38,990
+classmates.
+
+11
+00:00:38,990 --> 00:00:42,760
+Take pictures of meetups and link them from
+the forum. The distinction here--and maybe
+
+12
+00:00:42,760 --> 00:00:47,100
+it's not that material--is you organize meetups
+to go over the course material whereas hackathons
+
+13
+00:00:47,100 --> 00:00:54,050
+are really just about cranking on code. But
+maybe those are the same thing, in your view.
+
+14
+00:00:54,050 --> 00:01:01,050
+In terms of the summary, then, the class basically
+covers everything we wish we knew before starting
+
+15
+00:01:02,460 --> 00:01:06,240
+our companies or labs. There's going to be
+a lot of Javascript and web programming. The
+
+16
+00:01:06,240 --> 00:01:10,430
+final project is building your own Bitcoin-powered
+crowdfunder over the quarter and then using
+
+17
+00:01:10,430 --> 00:01:12,210
+it to market your own product.
+
+18
+00:01:12,210 --> 00:01:17,000
+Please go over these links to figure out what
+to do next. Perhaps the most important bit
+
+19
+00:01:17,000 --> 00:01:22,940
+is to share the course signup link with any
+friends that might be interested. After that,
+
+20
+00:01:22,940 --> 00:01:27,620
+you can continue here the next lecture in
+Week 1. As for Homework 1, it will be out
+
+21
+00:01:27,620 --> 00:01:30,909
+Wednesday, and will be due on June 26th.
+
+22
+00:01:30,909 --> 00:01:32,510
+Welcome to the class. We're glad to have you!
+

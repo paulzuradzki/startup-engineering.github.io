@@ -1,0 +1,126 @@
+
+1
+00:00:01,110 --> 00:00:06,250
+Welcome. This is the Startup Engineering course
+on Coursera. My name is Balaji Srinivasan.
+
+2
+00:00:06,250 --> 00:00:11,799
+I'm going to be the primary instructor for
+the course. We love to have you. This is the
+
+3
+00:00:11,799 --> 00:00:15,299
+first time that this course is being offered
+as a MOOC. So, it's an experiment in many
+
+4
+00:00:15,299 --> 00:00:20,460
+ways. It's an ambitious course. Unlike a normal
+course, I won't be able to speak to you in
+
+5
+00:00:20,460 --> 00:00:25,730
+real time after class, so I will look for
+your comments on the forums, and will monitor
+
+6
+00:00:25,730 --> 00:00:32,730
+them closely. So, please do be active there.
+So, OK, without further ado, let's get started.
+
+7
+00:00:33,820 --> 00:00:37,320
+So the title of the course is Startup Engineering.
+This is just kind of the logistics slide.
+
+8
+00:00:37,320 --> 00:00:43,010
+I'm not going to read every little bit, but
+this is the URL you signed up on, however
+
+9
+00:00:43,010 --> 00:00:47,530
+this is the primary class URL and this is
+the forum URL, so make sure to bookmark this
+
+10
+00:00:47,530 --> 00:00:54,070
+one. In terms of you know kind of the motivation
+behind the class, this is really the class
+
+11
+00:00:54,070 --> 00:00:59,040
+we wish we'd had before starting up our own
+company, and in Vijay's case, his research
+
+12
+00:00:59,040 --> 00:01:04,000
+lab. It's a spiritual sequel to Peter Thiel's
+CS 183, whereas that class was a hundred percent
+
+13
+00:01:04,000 --> 00:01:07,740
+philosophy, this class you can consider it
+as fifty percent technology and fifty percent
+
+14
+00:01:07,740 --> 00:01:12,100
+philosophy. There's going to be multiple choice
+and programming assignments like in the standard
+
+15
+00:01:12,100 --> 00:01:16,830
+class. There's also a final project. You're
+going to be programming your own simple crowd
+
+16
+00:01:16,830 --> 00:01:23,830
+funding site and using it to market your own
+startup idea. The final project will be partially
+
+17
+00:01:25,200 --> 00:01:28,560
+graded on the technical aspects of this crowd
+funding site, but really you are going to
+
+18
+00:01:28,560 --> 00:01:34,479
+be doing for the public recognition, and for
+the own satisfaction of building something.
+
+19
+00:01:34,479 --> 00:01:37,799
+You should go to forums, meetup and hackathons
+over the course of the class, but it is an
+
+20
+00:01:37,799 --> 00:01:41,490
+individual class for the most part and you
+should submit your own work. I'll have a comment
+
+21
+00:01:41,490 --> 00:01:48,490
+later in the slide on teams. Here are those
+URLs again. This URL will be a convenience
+
+22
+00:01:49,310 --> 00:01:53,890
+URL. It will be updated later this week so
+that you can kind of track the course materials
+
+23
+00:01:53,890 --> 00:01:58,009
+even when logged out. Importantly, with the
+text book, all the notes are online. There's
+
+24
+00:01:58,009 --> 00:02:04,280
+nothing to buy. A task for help or report
+bugs, please use the discussion forum rather
+
+25
+00:02:04,280 --> 00:02:07,950
+than email. There's a hundred thousand students,
+so email will not scale.
+

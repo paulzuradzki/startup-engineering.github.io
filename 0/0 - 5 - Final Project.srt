@@ -1,0 +1,307 @@
+
+1
+00:00:00,380 --> 00:00:06,810
+So let's talk about the final project for
+a bit. We refer to it in the previous slides,
+
+2
+00:00:06,810 --> 00:00:12,260
+but let's go into it in detail. The idea is
+that you're going to build your own simple
+
+3
+00:00:12,260 --> 00:00:18,169
+Bitcoin-powered, crowdfunding site, featuring
+your own product. The idea here is that when
+
+4
+00:00:18,169 --> 00:00:24,649
+you've got 100,000 final projects, this presents
+unique problems. You want to allow automatic
+
+5
+00:00:24,649 --> 00:00:28,439
+scoring and ranking, but also leave some room
+for creativity. You want to enrich beginners,
+
+6
+00:00:28,439 --> 00:00:31,939
+but challenge advanced students. And you want
+to complete it within a relatively short course
+
+7
+00:00:31,939 --> 00:00:35,960
+period, yet simulate as much of the founding
+process as possible.
+
+8
+00:00:35,960 --> 00:00:39,470
+And after a lot of deliberation, what we're
+doing is combining selfstarter and Bitcoin
+
+9
+00:00:39,470 --> 00:00:44,100
+(you can read about them over here). What
+you're going to be doing is, over the course
+
+10
+00:00:44,100 --> 00:00:48,800
+of the quarter, programming your own node.js
+version of selfstarter and adding in social
+
+11
+00:00:48,800 --> 00:00:55,140
+sharing, Bitcoin, and your product. Graphically,
+you can think of it as this is the official
+
+12
+00:00:55,140 --> 00:01:00,380
+selfstarter open-source project, and you're
+making a personal version of this to teach
+
+13
+00:01:00,380 --> 00:01:05,149
+yourself some web-programming, but also to
+teach yourself many other aspects of building
+
+14
+00:01:05,149 --> 00:01:12,149
+a startup, customizing things, marketing things,
+and whatnot. The social sharing aspects are
+
+15
+00:01:13,240 --> 00:01:19,859
+relatively straightforward; the Bitcoin aspect
+is pretty interesting. The concept is that
+
+16
+00:01:19,859 --> 00:01:23,700
+we're going to grade the technical aspects
+of that final project, but not the qualitative
+
+17
+00:01:23,700 --> 00:01:28,369
+aspects. For example, we will grade the fact
+that you've got your "Hello World" site up
+
+18
+00:01:28,369 --> 00:01:32,950
+successfully at a URL and you've deployed
+it, but not the name of your domain. Or we
+
+19
+00:01:32,950 --> 00:01:37,530
+will, for example, grade the fact that you
+have your social and payment integrations
+
+20
+00:01:37,530 --> 00:01:40,719
+up, but not the look and feel of those integrations.
+
+21
+00:01:40,719 --> 00:01:45,840
+At the very end, the ungraded part is the
+number of social shares and the number of
+
+22
+00:01:45,840 --> 00:01:49,130
+Bitcoin that you've raised, but this is really
+for your bragging rights. All these things
+
+23
+00:01:49,130 --> 00:01:52,969
+are in terms of quality are for bragging rights
+and for the quality of the product if you
+
+24
+00:01:52,969 --> 00:01:56,499
+want to take the class very seriously.
+
+25
+00:01:56,499 --> 00:02:01,469
+So, you choose the product, the text, the
+video, design, and all the qualitative aspects
+
+26
+00:02:01,469 --> 00:02:05,149
+of the selfstarter. We can only autograde
+the technical parts, but we allow your creativity
+
+27
+00:02:05,149 --> 00:02:10,110
+to shine through. The reason that we choose
+Bitcoin in particular is that the class is
+
+28
+00:02:10,110 --> 00:02:16,440
+international and in that sense Bitcoin is
+very good because you can do payments across
+
+29
+00:02:16,440 --> 00:02:21,360
+borders without transaction fees. Everyone
+can get a merchant account setup within days;
+
+30
+00:02:21,360 --> 00:02:26,460
+they don't need to apply for banks. So for
+a project that's teaching startups pedagogically,
+
+31
+00:02:26,460 --> 00:02:31,130
+that's extremely useful. But it's also very
+good for this particular application because
+
+32
+00:02:31,130 --> 00:02:35,720
+Bitcoin transactions are world-readable. We
+can see, for example, all the money that was
+
+33
+00:02:35,720 --> 00:02:41,670
+donated to this particular address by simply
+going to a site like blockchain.info, and
+
+34
+00:02:41,670 --> 00:02:47,350
+see that this particular person at this address
+received money at the following times and
+
+35
+00:02:47,350 --> 00:02:51,240
+in the following amounts, so we can see when
+they started. So in this fashion, for example,
+
+36
+00:02:51,240 --> 00:02:54,790
+we can look at the Bitcoin address associated
+with your project and see exactly how much
+
+37
+00:02:54,790 --> 00:02:58,120
+you've raised, and what time, and in what
+quantities, and make sure that people are
+
+38
+00:02:58,120 --> 00:03:05,120
+not gaming the system. There will also be
+a leaderboard. For example, example.com is
+
+39
+00:03:07,320 --> 00:03:12,460
+rated #1 in the genomics category. We're ranking
+currently on the base of the number of Bitcoin
+
+40
+00:03:12,460 --> 00:03:16,010
+raised in their crowdfunder, but one could
+also rank, for example, on the number of tweets
+
+41
+00:03:16,010 --> 00:03:22,290
+or Facebook shares involving example.com.
+If we ranked by tweets, then example2.com
+
+42
+00:03:22,290 --> 00:03:29,290
+would actually rank #1, and it would also
+be #1 in the law category. So let's talk by
+
+43
+00:03:29,610 --> 00:03:31,970
+categories for a second and prizes.
+
+44
+00:03:31,970 --> 00:03:36,810
+Oh, before we do that let's about some other
+comments. We're going to review Bitcoin in
+
+45
+00:03:36,810 --> 00:03:40,650
+great detail later in the course, but you
+can start by clicking these two links to go
+
+46
+00:03:40,650 --> 00:03:46,430
+and obtain some Bitcoin. But importantly,
+buying Bitcoin is not needed to pass the course;
+
+47
+00:03:46,430 --> 00:03:50,590
+it's completely optional. The final project
+is just meant to be hard to game. For those
+
+48
+00:03:50,590 --> 00:03:56,630
+who want to do something real, you can. Gaming
+the process of getting a lot of money into
+
+49
+00:03:56,630 --> 00:04:02,090
+your Bitcoin account is a lot like running
+a profitable company. For those who don't
+
+50
+00:04:02,090 --> 00:04:05,900
+want to do a real money crowdfunder, you can
+maximize the number of Facebook or Twitter
+
+51
+00:04:05,900 --> 00:04:09,430
+shares instead.
+
+52
+00:04:09,430 --> 00:04:13,770
+Let's talk about prizes for a second. We're
+going to have prizes in at least four categories.
+
+53
+00:04:13,770 --> 00:04:18,810
+After you fill out the survey, we'll likely
+add more. You choose your category when you
+
+54
+00:04:18,810 --> 00:04:23,230
+enter the leaderboard, which will go live
+later in class. As I've said, this is for
+
+55
+00:04:23,230 --> 00:04:29,100
+bragging rights only. What we'll do is rank
+order and prizes in each category in each
+
+56
+00:04:29,100 --> 00:04:34,870
+class. To be counted as a winner, you would
+have to be in one of the high positions on
+
+57
+00:04:34,870 --> 00:04:39,630
+the last day when the leaderboard is frozen
+and the winners are announced. Remember again,
+
+58
+00:04:39,630 --> 00:04:42,960
+you don't need to participate in the public
+leaderboard to get a 100% grade in the class,
+
+59
+00:04:42,960 --> 00:04:46,810
+and you don't need to use Bitcoin to compete
+in the public competition. You can compete
+
+60
+00:04:46,810 --> 00:04:52,440
+solely on the number of social media shares.
+But I like this as a concept because those
+
+61
+00:04:52,440 --> 00:04:56,490
+who want to take the class very seriously
+can actually simulate a lot the process of
+
+62
+00:04:56,490 --> 00:05:00,100
+starting a company, raising money, and building
+the tech for the product.
+
